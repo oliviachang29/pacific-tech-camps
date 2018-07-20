@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Mouse()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ checkKeyPress()
+comment2.text=\r\n\ Check\ whether\ there\ are\ any\ keys\ pressed\ and\ rotate\ in\ the\ direction\ of\ the\ key\ pressed.\r\n
+comment3.params=
+comment3.target=void\ lookForWorm()
+comment3.text=\r\n\ Check\ whether\ the\ mouse\ can\ see\ a\ worm.\r\n\ If\ we\ have,\ eat\ it.\ If\ not,\ do\ nothing.\r\n
+numComments=4

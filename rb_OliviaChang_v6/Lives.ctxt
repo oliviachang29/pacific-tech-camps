@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Score\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=numLife
+comment1.target=void\ changeLife(int)
+comment1.text=\r\n\ Remove\ numLife\ life.\ numLife\ can\ be\ positive\ or\ negative,\ so\ lives\ can\ go\ up\ or\ down.\r\n
+comment2.params=
+comment2.target=void\ stopGame()
+comment2.text=\r\n\ If\ lives\ \=\=\ 0,\ then\ stop\ game.\r\n
+numComments=3

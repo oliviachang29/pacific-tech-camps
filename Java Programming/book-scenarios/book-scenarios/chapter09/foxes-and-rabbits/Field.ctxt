@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Field()
+comment0.text=\r\n\ Create\ the\ field\ and\ populate\ it\ with\ foxes\ and\ rabbits.\r\n
+comment1.params=
+comment1.target=void\ populate()
+comment1.text=\r\n\ Populate\ a\ field\ with\ foxes\ and\ rabbits.\r\n
+comment2.params=x\ y
+comment2.target=Location\ randomAdjacentLocation(int,\ int)
+comment2.text=\r\n\ Generate\ a\ random\ location\ that\ is\ adjacent\ to\ the\r\n\ given\ location,\ or\ is\ the\ same\ location.\r\n\ The\ returned\ location\ will\ be\ within\ the\ valid\ bounds\r\n\ of\ the\ field.\r\n
+comment3.params=x\ y
+comment3.target=Location\ freeAdjacentLocation(int,\ int)
+comment3.text=\r\n\ Try\ to\ find\ a\ free\ location\ that\ is\ adjacent\ to\ the\r\n\ given\ location.\ If\ there\ is\ none,\ then\ return\ the\ current\r\n\ location\ if\ it\ is\ free.\ If\ not,\ return\ null.\r\n\ The\ returned\ location\ will\ be\ within\ the\ valid\ bounds\r\n\ of\ the\ field.\r\n
+comment4.params=x\ y
+comment4.target=java.util.Iterator\ adjacentLocations(int,\ int)
+comment4.text=\r\n\ Generate\ an\ iterator\ over\ a\ shuffled\ list\ of\ locations\ adjacent\r\n\ to\ the\ given\ one.\ The\ list\ will\ not\ include\ the\ location\ itself.\r\n\ All\ locations\ will\ lie\ within\ the\ grid.\r\n
+numComments=5

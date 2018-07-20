@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ move()
+comment1.text=\r\n\ \r\n
+comment2.params=
+comment2.target=void\ eat()
+comment2.text=\r\n\ Try\ to\ eat\ an\ object\ of\ class\ 'Pizza'.\ This\ is\ only\ successful\ if\ there\r\n\ is\ such\ an\ object\ where\ we\ currently\ are.\ Otherwise\ this\ method\ does\r\n\ nothing.\r\n
+numComments=3
